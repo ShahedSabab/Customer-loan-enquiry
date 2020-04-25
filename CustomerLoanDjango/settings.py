@@ -25,12 +25,13 @@ SECRET_KEY = 'w8^uzev8lq-w#b5o696$vphk!o$ugc%zncrtw5!*k&y&l!@3sd'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['customerloan.herokuapp.com']
+ALLOWED_HOSTS = ['customerloan.herokuapp.com', '*']
 
 CRISPY_TEMPLATE_PACK = 'bootstrap4'
 # Application definition
 
 STATIC_URL = '/static/'
+
 STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
 
 INSTALLED_APPS = [
