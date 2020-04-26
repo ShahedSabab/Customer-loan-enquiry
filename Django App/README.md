@@ -1,1 +1,2 @@
-# Cutomer-loan-live
+# Cutomer-loan-Inquiry
+The objective of this project is to predict if a customer will get a loan given applicant income, loan amount, loan amout term, credit history, education status, self employment status, property area etc. A model is trained using the training data on previous customers' loan approval history. A web service is created which runs the trained model in the background. The service presents an interface through which any user can request to get a automated decision (i.e., chances of approval or rejection). Finally, 
