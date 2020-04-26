@@ -9,3 +9,20 @@ The objective of this project is to predict if a customer will get a loan given 
 • The model can generate 2 decisions (i.e., approval or rejection) based on the given customer data. <br>
 • The model has an accuracy of 80%. <br>
 • The web service is developed using Django framework & REST API. <br>
+
+# How to run:
+To check the model please open the following file:<br>
+> Customer_Loan.ipynb <br>
+<br>
+To run the web service, go inside the Django-app directory and run the following commands:<br>
+> pip install requirements.txt <br>
+> python manage.py makemigrations <br>
+> python manage.py migrate<br>
+> python manage.py runserver<br>
+<br>
+Go to the localhost usning any web browser. <br>
+http://127.0.0.1:8000/<br>
+
+To get all the customer information from the server go to the following urls: <br>
+http://127.0.0.1:8000/api/myapi/ <br>
+![](Django-app/getapi.PNG?raw=true)
