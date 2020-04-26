@@ -5,6 +5,6 @@ The objective of this project is to predict if a customer will get a loan given 
 • The data is normalized and preprocessed. <br>
 • To build the model Tensorflow 2.0 is used. <br>
 • The model is trained using a Multi Layer Neural Network with 4 dense layers (adding l1 regularization) and 2 droupout layers. <br>
-• The model can generate 2 decisions (i.e., approval or rejection) based on the given customer data.
-• The model has an accuracy of 80%.
-• The web service is developed using Django framework & REST API.
+• The model can generate 2 decisions (i.e., approval or rejection) based on the given customer data. <br>
+• The model has an accuracy of 80%. <br>
+• The web service is developed using Django framework & REST API. <br>
