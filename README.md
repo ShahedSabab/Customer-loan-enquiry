@@ -9,3 +9,9 @@ The objective of this project is to predict if a customer will get a loan given 
 • The model can generate 2 decisions (i.e., approval or rejection) based on the given customer data. <br>
 • The model has an accuracy of 80%. <br>
 • The web service is developed using Django framework & REST API. <br>
+
+# How to run:
+Go inside the Django-app directory and run the following commands:
+> pip install requirements.txt
+> python manage.py makemigrations
+> python manage.py migrate
