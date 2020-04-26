@@ -18,8 +18,8 @@ Go inside the Django-app directory and run the following commands:
 > python manage.py runserver<br>
 <br>
 Go to the localhost usning any web browser. <br>
-> http:http://127.0.0.1:8000/<br>
+http:http://127.0.0.1:8000/<br>
 
 To get all the customer information from the server go to the following urls: <br>
-> http://127.0.0.1:8000/api/myapi/ <br>
+http://127.0.0.1:8000/api/myapi/ <br>
 ![](Django-app/getapi.PNG?raw=true)
