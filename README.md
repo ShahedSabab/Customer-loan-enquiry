@@ -11,7 +11,10 @@ The objective of this project is to predict if a customer will get a loan given 
 • The web service is developed using Django framework & REST API. <br>
 
 # How to run:
-Go inside the Django-app directory and run the following commands:
+To check the model please open the following file:
+> Customer_Loan.ipynb <br>
+<br>
+To run the web service, go inside the Django-app directory and run the following commands:
 > pip install requirements.txt <br>
 > python manage.py makemigrations <br>
 > python manage.py migrate<br>
