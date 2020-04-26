@@ -12,6 +12,11 @@ The objective of this project is to predict if a customer will get a loan given 
 
 # How to run:
 Go inside the Django-app directory and run the following commands:
-> pip install requirements.txt
-> python manage.py makemigrations
-> python manage.py migrate
+> pip install requirements.txt <br>
+> python manage.py makemigrations <br>
+> python manage.py migrate<br>
+> python manage.py runserver<br>
+<br>
+Go to the localhost usning any web browser. <br>
+> http://127.0.0.1:8000/<br>
+
