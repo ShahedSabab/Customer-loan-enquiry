@@ -10,8 +10,6 @@ The objective of this project is to predict if a customer will get a loan given 
 • The model has an accuracy of 80%. <br>
 • The web service is developed using Django framework & REST API. <br>
 
-# Performance
-![](performance.PNG)
 
 # How to run:
 To check the model please open the following file:<br>
