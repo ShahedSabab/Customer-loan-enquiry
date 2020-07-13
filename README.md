@@ -9,6 +9,10 @@ The objective of this project is to predict if a customer will get a loan given 
 • The model is trained using a FFN with 4 dense layers (adding L1 regularization) and 2 dropout layers. <br>
 • The model has an accuracy of 80%. <br>
 
+# Performance:
+<img src="accuracy.PNG" width="100%">
+<img src="loss.PNG" width="100%">
+<img src="confusionMatrix.PNG" width="100%">
 
 # How to run:
 To check the model please open the following file:<br>
