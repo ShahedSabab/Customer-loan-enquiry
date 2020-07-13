@@ -10,9 +10,9 @@ The objective of this project is to predict if a customer will get a loan given 
 • The model has an accuracy of 80%. <br>
 
 # Performance:
-<img src="accuracy.PNG" width="100%">
-<img src="loss.PNG" width="100%">
-<img src="confusionMatrix.PNG" width="100%">
+<img src="accuracy.PNG" width="50%">
+<img src="loss.PNG" width="50%">
+<img src="confusionMatrix.PNG" width="50%">
 
 # How to run:
 To check the model please open the following file:<br>
